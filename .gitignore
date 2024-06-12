@@ -167,3 +167,7 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+
+#weight files
+*.pt
+*.pth
